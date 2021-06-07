@@ -1,1 +1,7 @@
 Welcome to AmazonWebservices!
+
+
+welcome to GIT
+welcome to branch
+welcome to merging 
+
